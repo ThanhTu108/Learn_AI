@@ -6,7 +6,7 @@ Hướng dẫn sử dụng
   
 2. Chuẩn bị môi trường Python:
   cd Learn_AI
-  python3 venv .venv
+  python venv .venv
   .\.venv\Scripts\activate  (Windows)
 Chạy ví dụ trong từng folder, ví dụ:
 cd Regression
